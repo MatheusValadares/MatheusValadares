@@ -1,5 +1,5 @@
 ## Olá! Seja bem vindo ao meu Github!
-<p>Meu nome é Matheus Valadares, sou gaúcho, tenho 25 anos e estudo programação desde o fim do ano de 2021. Acredito que com o avanço tecnológico conseguiremos resolver problemas de diversos setores da nossa sociedade, meu objetivo é desenvolver-me para poder contribuir para resolução desses problemas, utilizando a programação como ferramenta. Sinta-se a vontade para revisar meus projetos e deixar a sua colaboração através de código ou críticas construtivas.</p>
+<p>Meu nome é Matheus Valadares, sou gaúcho, tenho 25 anos e estudo programação desde o final de 2021. Acredito que com o avanço tecnológico conseguiremos resolver problemas de diversos setores da nossa sociedade, meu objetivo é desenvolver-me para poder contribuir na resolução desses problemas, utilizando a programação como ferramenta. Sinta-se a vontade para revisar meus projetos e deixar a sua colaboração através de código ou críticas construtivas.</p>
 
 <br>
 
